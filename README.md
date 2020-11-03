@@ -41,7 +41,8 @@ A repo of tools and other directories listing tools for in-silico drug discovery
 ## GUI tools for submitting Jobs
 1. WebMO https://www.webmo.net/
 2. OpenStructure https://openstructure.org/
-3. MeTA Studio https://github.com/tovganesh/metastudio
+3. Jmol http://jmol.sourceforge.net/
+4. MeTA Studio https://github.com/tovganesh/metastudio
 
 ## Pipeline tools for scheduling jobs, documenting steps
 1. ODDT - https://github.com/oddt/oddt
