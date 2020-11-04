@@ -70,6 +70,8 @@ A repo of tools and other directories listing tools for in-silico drug discovery
 3. scilab - https://www.scilab.org
 4. Docker instances for LifeScience - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6042832/ 
 
-## Spreadsheet, Scripting
+## Spreadsheet, Scripting, AI
 1. LibreOffice - https://www.libreoffice.org
 2. Python - A Byte of Python - https://python.swaroopch.com
+3. AI for Everyone - https://www.coursera.org/learn/ai-for-everyone
+
