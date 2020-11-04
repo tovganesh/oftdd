@@ -32,6 +32,8 @@ A repo of tools and other directories listing tools for in-silico drug discovery
 1. McQSAR - http://users.abo.fi/mivainio/mcqsar/
 2. BlueDesc - http://www.ra.cs.uni-tuebingen.de/software/bluedesc/welcome_e.html
 3. ODTT - https://github.com/oddt/oddt (Pipeline toolkit + molecular modeling tools) 
+4. QSAR-co - https://sites.google.com/view/qsar-co
+5. Open3DQSAR - http://open3dqsar.sourceforge.net/
 
 ## Quantum Chemistry Tools
 1. Best tools: GAMESS, OCRA, NwChem, NAMD (Quantum Chemistry tools on Classical computers)
@@ -60,6 +62,7 @@ A repo of tools and other directories listing tools for in-silico drug discovery
 1. Toxicity analysis - TEST tool from EPA - https://www.epa.gov/chemical-research/toxicity-estimation-software-tool-test
 2. PK/PD analysis - BioGears - https://www.biogearsengine.com/
 3. SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness of small molecules http://www.swissadme.ch/
+4. BioPPSy - https://sourceforge.net/projects/bioppsy/
 
 ## Statistical Analysis
 1. GNU Octave - https://www.gnu.org/software/octave/,
